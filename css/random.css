@@ -1,0 +1,27 @@
+.bg{
+    background-color: rgb(86, 125, 70);
+}
+
+a:visited {
+    color: rgb(247, 240, 240);
+}
+
+a:link{
+    color: black;
+}
+
+.title{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    text-align: center;
+}
+
+.header4{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.list{
+    color: whitesmoke;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
